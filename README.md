@@ -3,6 +3,8 @@
 **End-to-End Product Analytics Portfolio Case Study**  
 **PostgreSQL | SQL | Python | Statistics | A/B Testing | Power BI**
 
+**GitHub Repository:** [Pathwise — Navigation Product Analytics](https://github.com/jatins2002/Pathwise---Navigation-Product-Analytics)
+
 **Created by:** Jatindra Kumar Soni  
 **Education:** B.Tech in Computer Science and Business Systems (CSBS), Shri Shankaracharya Technical Campus  
 **Focus:** Data Analytics, Product Analytics, and Data Engineering  
@@ -10,7 +12,9 @@
 
 > **Disclaimer:** PathWise is a fictional navigation application. This project uses synthetic data for portfolio practice. Observed results are not real-world business outcomes.
 
-![PathWise Dashboard](Images/PathWise Navigation Analytics Dashboard.png)
+![PathWise Dashboard](images/pathwise-dashboard-overview.png)
+
+[View this project on GitHub](https://github.com/jatins2002/Pathwise---Navigation-Product-Analytics)
 
 ## Project Overview
 
@@ -178,8 +182,9 @@ PathWise-Product-Analytics/
 
 **Jatindra Kumar Soni** is a B.Tech graduate in Computer Science and Business Systems (CSBS) from Shri Shankaracharya Technical Campus, building practical experience across data analytics and data engineering. His toolkit includes **Python, SQL, PostgreSQL, PySpark, Databricks, Excel, and Power BI**. This project demonstrates an end-to-end product analytics workflow: defining business questions, validating and transforming data, applying statistical tests, designing an interactive dashboard, and making evidence-based recommendations.
 
-- **GitHub:** https://github.com/jatins2002
-- **Interests:** Product Analytics · Data Analytics 
+- **GitHub Profile:** https://github.com/jatins2002
+- **Project Repository:** https://github.com/jatins2002/Pathwise---Navigation-Product-Analytics
+- **Interests:** Product Analytics · Data Analytics · Data Engineering
 
 ---
 
