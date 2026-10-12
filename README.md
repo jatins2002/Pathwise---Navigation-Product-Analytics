@@ -179,7 +179,7 @@ PathWise-Product-Analytics/
 **Jatindra Kumar Soni** is a B.Tech graduate in Computer Science and Business Systems (CSBS) from Shri Shankaracharya Technical Campus, building practical experience across data analytics and data engineering. His toolkit includes **Python, SQL, PostgreSQL, PySpark, Databricks, Excel, and Power BI**. This project demonstrates an end-to-end product analytics workflow: defining business questions, validating and transforming data, applying statistical tests, designing an interactive dashboard, and making evidence-based recommendations.
 
 - **GitHub:** https://github.com/jatins2002
-- **Interests:** Product Analytics · Data Analytics · Data Engineering
+- **Interests:** Product Analytics · Data Analytics 
 
 ---
 
