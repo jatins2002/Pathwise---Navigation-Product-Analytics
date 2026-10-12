@@ -12,7 +12,7 @@
 
 > **Disclaimer:** PathWise is a fictional navigation application. This project uses synthetic data for portfolio practice. Observed results are not real-world business outcomes.
 
-![PathWise Dashboard](images/pathwise-dashboard-overview.png)
+![PathWise Dashboard](Images/pathwise-dashboard-overview.png)
 
 [View this project on GitHub](https://github.com/jatins2002/Pathwise---Navigation-Product-Analytics)
 
